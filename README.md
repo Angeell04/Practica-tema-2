@@ -1,4 +1,3 @@
-Practica Obligatoria tema 2
 MANUAL PARA USUARIOS:
 HOTEL CIUDAD DE MARTOS
 
@@ -97,3 +96,4 @@ Permite ver cuántas monedas o billetes están disponibles para dar cambio duran
 
 ✔ 3. Apagar el software
 Cierra el programa de forma segura.
+
